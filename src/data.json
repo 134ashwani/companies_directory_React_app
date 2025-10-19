@@ -1,0 +1,64 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple Inc.",
+      "location": "Cupertino, CA",
+      "industry": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Google LLC",
+      "location": "Mountain View, CA",
+      "industry": "Technology"
+    },
+    {
+      "id": 3,
+      "name": "Amazon.com Inc.",
+      "location": "Seattle, WA",
+      "industry": "E-commerce"
+    },
+    {
+      "id": 4,
+      "name": "Tesla Inc.",
+      "location": "Austin, TX",
+      "industry": "Automotive"
+    },
+    {
+      "id": 5,
+      "name": "Microsoft Corporation",
+      "location": "Redmond, WA",
+      "industry": "Technology"
+    },
+    {
+      "id": 6,
+      "name": "Facebook (Meta)",
+      "location": "Menlo Park, CA",
+      "industry": "Social Media"
+    },
+    {
+      "id": 7,
+      "name": "Netflix Inc.",
+      "location": "Los Gatos, CA",
+      "industry": "Entertainment"
+    },
+    {
+      "id": 8,
+      "name": "Adobe Inc.",
+      "location": "San Jose, CA",
+      "industry": "Software"
+    },
+    {
+      "id": 9,
+      "name": "Salesforce.com",
+      "location": "San Francisco, CA",
+      "industry": "Cloud Computing"
+    },
+    {
+      "id": 10,
+      "name": "IBM",
+      "location": "Armonk, NY",
+      "industry": "Technology"
+    }
+  ]
+}
